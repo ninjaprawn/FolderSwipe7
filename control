@@ -1,0 +1,9 @@
+Package: com.ninjaprawn.FolderSwipe7
+Name: FolderSwipe7
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Swipe on folder to open folder.
+Maintainer: Ninjaprawn
+Author: Ninjaprawn
+Section: Tweaks
